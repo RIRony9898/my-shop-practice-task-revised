@@ -1,4 +1,9 @@
-.bottle-size{
-    width: 100px;
-    height: 100px;
+.bottle {
+    border: 2px solid tomato;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.bottle img {
+    width: 200px;
 }
