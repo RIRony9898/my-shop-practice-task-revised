@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "price": 399,
+    "features": [
+      "Heart Rate Monitor",
+      "GPS",
+      "Always-On Display",
+      "Blood Oxygen Sensor"
+    ],
+    "battery_life": "18 hours",
+    "connectivity": ["Bluetooth", "Wi-Fi", "NFC"],
+    "water_resistance": "50m",
+    "os": "watchOS 10"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "price": 349,
+    "features": [
+      "Sleep Tracking",
+      "ECG",
+      "Body Composition Analysis",
+      "Fall Detection"
+    ],
+    "battery_life": "40 hours",
+    "connectivity": ["Bluetooth", "Wi-Fi", "LTE"],
+    "water_resistance": "50m",
+    "os": "Wear OS 4"
+  },
+  {
+    "id": 3,
+    "name": "Fitbit Versa 4",
+    "brand": "Fitbit",
+    "price": 229,
+    "features": [
+      "Heart Rate Monitor",
+      "Stress Management",
+      "Sleep Stages",
+      "GPS"
+    ],
+    "battery_life": "6 days",
+    "connectivity": ["Bluetooth", "Wi-Fi"],
+    "water_resistance": "50m",
+    "os": "Fitbit OS"
+  },
+  {
+    "id": 4,
+    "name": "Garmin Venu 2 Plus",
+    "brand": "Garmin",
+    "price": 449,
+    "features": [
+      "Pulse Ox Sensor",
+      "Body Battery Energy Monitoring",
+      "Music Storage",
+      "GPS"
+    ],
+    "battery_life": "9 days",
+    "connectivity": ["Bluetooth", "Wi-Fi"],
+    "water_resistance": "50m",
+    "os": "Garmin OS"
+  },
+  {
+    "id": 5,
+    "name": "Amazfit GTR 4",
+    "brand": "Amazfit",
+    "price": 199,
+    "features": [
+      "Heart Rate Monitor",
+      "Alexa Built-in",
+      "GPS",
+      "Activity Tracking"
+    ],
+    "battery_life": "14 days",
+    "connectivity": ["Bluetooth", "Wi-Fi"],
+    "water_resistance": "50m",
+    "os": "Zepp OS"
+  },
+  {
+    "id": 6,
+    "name": "Huawei Watch GT 4",
+    "brand": "Huawei",
+    "price": 249,
+    "features": [
+      "Heart Rate Monitoring",
+      "SpO2 Tracking",
+      "Sleep Tracking",
+      "GPS"
+    ],
+    "battery_life": "14 days",
+    "connectivity": ["Bluetooth", "Wi-Fi"],
+    "water_resistance": "50m",
+    "os": "HarmonyOS"
+  },
+  {
+    "id": 7,
+    "name": "Fossil Gen 6",
+    "brand": "Fossil",
+    "price": 299,
+    "features": [
+      "Heart Rate Monitor",
+      "SpO2 Tracking",
+      "Google Assistant",
+      "GPS"
+    ],
+    "battery_life": "24 hours",
+    "connectivity": ["Bluetooth", "Wi-Fi", "NFC"],
+    "water_resistance": "3 ATM",
+    "os": "Wear OS 3"
+  },
+  {
+    "id": 8,
+    "name": "TicWatch Pro 5",
+    "brand": "Mobvoi",
+    "price": 349,
+    "features": [
+      "Dual Display",
+      "Heart Rate Monitor",
+      "SpO2 Monitoring",
+      "GPS"
+    ],
+    "battery_life": "45 days (Essential Mode)",
+    "connectivity": ["Bluetooth", "Wi-Fi"],
+    "water_resistance": "5 ATM",
+    "os": "Wear OS 4"
+  },
+  {
+    "id": 9,
+    "name": "Polar Grit X Pro",
+    "brand": "Polar",
+    "price": 499,
+    "features": [
+      "Weather Tracking",
+      "Route Guidance",
+      "Heart Rate Monitor",
+      "GPS"
+    ],
+    "battery_life": "40 hours (Training Mode)",
+    "connectivity": ["Bluetooth"],
+    "water_resistance": "100m",
+    "os": "Polar OS"
+  },
+  {
+    "id": 10,
+    "name": "Coros Apex 2",
+    "brand": "Coros",
+    "price": 399,
+    "features": ["Multi-GNSS", "Heart Rate Sensor", "Sleep Monitoring", "GPS"],
+    "battery_life": "30 days",
+    "connectivity": ["Bluetooth"],
+    "water_resistance": "50m",
+    "os": "Coros OS"
+  }
+]
